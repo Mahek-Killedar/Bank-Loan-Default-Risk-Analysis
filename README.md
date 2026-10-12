@@ -84,22 +84,6 @@ The project examines historical associations in the dataset. These patterns do n
 
 The definition of a default-related outcome must be stated clearly and applied consistently. Unresolved loan statuses should be handled appropriately when calculating rates.
 
-## Repository Structure
-
-```text
-Bank-Loan-Default-Risk-Analysis/
-├── sql/
-│   ├── 01_database_setup.sql
-│   ├── 02_data_quality_checks.sql
-│   ├── 03_data_cleaning.sql
-│   ├── 04_business_analysis.sql
-│   └── 05_validation_queries.sql
-├── powerbi/
-│   └── Bank_Loan_Risk_Dashboard.pbix
-├── screenshots/
-└── README.md
-```
-
 ## How to Use This Project
 
 1. Install MySQL and open MySQL Workbench.
